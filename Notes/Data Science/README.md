@@ -13,3 +13,4 @@
 - [https://williamkoehrsen.medium.com/](https://williamkoehrsen.medium.com/)
 - [https://github.com/ossu/data-science](https://github.com/ossu/data-science)
 - [https://nulldata.substack.com/p/data-science-2020-highlights](https://nulldata.substack.com/p/data-science-2020-highlights)
+- [https://www.datasciencecentral.com/](https://www.datasciencecentral.com/)
