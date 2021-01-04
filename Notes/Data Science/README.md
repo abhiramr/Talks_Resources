@@ -1,0 +1,15 @@
+### Resources I found interesting for aspiring/current data-scientists
+
+- [https://www.quora.com/q/storytellingwith](https://www.quora.com/q/storytellingwith)
+- [https://simplystatistics.org/](https://simplystatistics.org/)
+- [https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd](https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd)
+- [https://machinelearningmastery.com/start-here/#getstarted](https://machinelearningmastery.com/start-here/#getstarted)
+- [http://www.datatau.com/](http://www.datatau.com/)
+- [http://counting.substack.com/](http://counting.substack.com/)
+- [https://www.youtube.com/user/safe4democracy/videos](https://www.youtube.com/user/safe4democracy/videos)
+- [https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [https://github.com/WillKoehrsen/Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis)
+- [https://williamkoehrsen.medium.com/](https://williamkoehrsen.medium.com/)
+- [https://github.com/ossu/data-science](https://github.com/ossu/data-science)
+- [https://nulldata.substack.com/p/data-science-2020-highlights](https://nulldata.substack.com/p/data-science-2020-highlights)
