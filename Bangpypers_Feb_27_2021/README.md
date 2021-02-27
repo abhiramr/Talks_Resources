@@ -1,5 +1,8 @@
 # **About Maps and GIS**
 
+**If you're having difficulty viewing the Notebook on Github, you can check it out on Google Colab at-** [https://colab.research.google.com/drive/1adU5VgqH5DglH5WHDnZMNDobWlEXbmje?usp=sharing](https://colab.research.google.com/drive/1adU5VgqH5DglH5WHDnZMNDobWlEXbmje?usp=sharing)
+
+**I've downloaded a bunch of SHP files and placed them here for usage in this notebook and in your own works as well -**[https://drive.google.com/file/d/1RQMXhGlnd3-pgwmynPqoGH7Fk9YzA7PI/view?usp=sharing](https://drive.google.com/file/d/1RQMXhGlnd3-pgwmynPqoGH7Fk9YzA7PI/view?usp=sharing)
 
 - **List of Python Packages that can be used in GIS -** 
 [https://docs.google.com/spreadsheets/d/1FhOYp33feQC8YfiOKdFmW4rEYpeIqr0oesrGNH6Cd4A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FhOYp33feQC8YfiOKdFmW4rEYpeIqr0oesrGNH6Cd4A/edit?usp=sharing)
