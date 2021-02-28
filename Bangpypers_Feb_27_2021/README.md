@@ -30,3 +30,7 @@
     - [https://carpentries-incubator.github.io/geospatial-python/01-intro-raster-data/index.html](https://carpentries-incubator.github.io/geospatial-python/01-intro-raster-data/index.html)
     - [https://www.latlong.net/Show-Latitude-Longitude.html](https://www.latlong.net/Show-Latitude-Longitude.html)
     - What3Words, OpenStreetMaps
+ - **Interesting Github Repos**
+    - https://github.com/openbangalore
+    - https://github.com/datameet/maps
+    - https://python-visualization.github.io/folium/
