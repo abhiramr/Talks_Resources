@@ -1,0 +1,268 @@
+
+body,html{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    background: #F4F1EA !important;
+    color: black !important;
+    }
+
+        /* HEADER */
+
+#header {
+    width: auto;
+    height: 40px;
+    padding: 10px 40px;
+    background: #0B0C10;
+    line-height: 40px;
+    color: #ffc;
+    overflow: hidden;
+}
+
+#header a:link, #header a:visited {
+    color: #fff;
+}
+
+#header a:focus , #header a:hover {
+    text-decoration: underline;
+}
+
+#branding {
+    float: left;
+}
+
+#branding h1 {
+    padding: 0;
+    margin: 0 20px 0 0;
+    font-weight: 300;
+    font-size: 24px;
+    color: #f5dd5d;
+}
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited {
+    color: #f5dd5d;
+}
+
+#branding h2 {
+    padding: 0 10px;
+    font-size: 14px;
+    margin: -8px 0 8px 0;
+    font-weight: normal;
+    color: #ffc;
+}
+
+#branding a:hover {
+    text-decoration: none;
+}
+
+#user-tools {
+    float: right;
+    padding: 0;
+    margin: 0 0 0 20px;
+    font-weight: 300;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+#user-tools a {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+#user-tools a:focus, #user-tools a:hover {
+    text-decoration: none;
+    border-bottom-color: #79aec8;
+    color: #79aec8;
+}
+
+.colorbar{
+    height:20px;
+    width:50px;
+    margin: 5px;
+}
+
+span{    
+    display: flex;
+    justify-content: space-between;  
+    width: 150px;
+}
+
+
+.colorbar.red{
+    background: red;
+}
+
+.colorbar.sas_one{
+    background: #0B0C10
+}
+.colorbar.sas_two{
+    background: #1F2833
+}
+.colorbar.sas_three{
+    background: #C5C6C7
+}
+.colorbar.sas_four{
+    background: #66FCF1
+}
+.colorbar.sas_five{
+    background: #45A29E
+}
+
+.search_input{
+color: white;
+border: 0;
+outline: 0;
+background: none;
+width: 0;
+caret-color:transparent;
+line-height: 40px;
+transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_input{
+padding: 0 10px;
+width: 450px;
+caret-color:red;
+transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_icon{
+background: white;
+color: #e74c3c;
+}
+
+.search_icon{
+height: 40px;
+width: 40px;
+float: right;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+color:white;
+}
+
+thead th{
+    text-align: center;         
+}
+
+tbody{
+    text-align: center;         
+}
+thead#headerID{
+    background: #000F30 !important;
+    color:#ffffff;
+    text-align:center;
+}
+
+  .flip-container  {
+    transform-style: preserve-3d;
+    perspective: 1000;
+    margin: 10px;
+    float: left;
+    cursor: pointer;
+  }
+  
+  .flip-container,
+  .front
+   {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 5px;
+  }
+
+  .front {
+    position: relative;
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    color: white;
+    left: 0;
+    background: black;
+  }
+ 
+  .front span {
+    font-size: 20px;
+    position: absolute;
+    top: -30px;
+    left: 10px;
+    font-family: verdana;
+  }
+
+  .modal-header{
+      color: black;
+  }
+
+  .panel{
+    background: white; 
+    color: black;
+    padding-right: 1px;
+    margin-right: 5px;
+    margin-left: 3px;
+    padding-left: 0.5;
+    padding-left: 1px;
+    height: 60px;
+  }
+  
+  
+  .center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 15px;
+    margin-right: 5px;
+    height: 50px;
+    min-width: 100px;
+    background: #348AA7;
+    border: none;
+    outline: none;
+    color: white;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 3px;
+    box-shadow: 0 5px 0px #348aa7;
+    border-bottom: 2px solid #30809b;
+  }
+  .button:hover {
+    background: #2e7a94;
+    box-shadow: 0 4px 1px #2e7a94;
+    border-bottom: 2px solid #2a7088;
+    transition: all 0.1s ease-in;
+  }
+  .button:active {
+    transform: translateY(4px);
+    border-bottom-width: 2px;
+    box-shadow: none;
+  }
+
+p.mb-1.blocks {
+    color: black;
+}
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+body {
+    background: #5DD39E;
+}
+
+h1,h2{
+    color: #45A29E;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.nofont
+{
+    font-size: 18px;
+}
