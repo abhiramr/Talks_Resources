@@ -3,7 +3,7 @@ from streamlit_custom_slider import st_custom_slider
 import streamlit as st
 from streamlit_custom_slider import st_range_slider
 
-st.title("Testing Streamlit custom components")
+st.title("A Tale of Two Sliders")
 
 # Store and display the return value of your custom component
 # v = st.slider("Hello world", 0, 100)
