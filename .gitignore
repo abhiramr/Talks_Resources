@@ -2,3 +2,4 @@
 **pycache**
 **migrations**
 .vscode
+**node_modules**
