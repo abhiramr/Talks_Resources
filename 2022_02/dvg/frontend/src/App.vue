@@ -2,14 +2,12 @@
     <div id="app">
         <header>
           <router-link to="/">
-            <h1 class="display-4"> Awesome Blog</h1>
+            <h1 class="display-4"> Not So Awesome Blog</h1>
           </router-link>
         </header>
         <router-view />
     </div>
 </template>
-
-
 
 
 <script>

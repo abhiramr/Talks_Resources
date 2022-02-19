@@ -25,10 +25,25 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Sample Graph Queries 
+
 ```
-npm run lint
+{
+  allPosts {
+    title
+    subtitle
+    author {
+      user {
+        username
+      }
+    }
+    tags {
+      name
+    }
+  }
+}
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Issues in hosting
+
+`unset HOST`
